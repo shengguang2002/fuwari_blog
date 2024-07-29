@@ -61,9 +61,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://github.com/shengguang2002',
     },
     {
-      name: 'Bilibili',
-      icon: 'fa6-brands:bilibili',
-      url: 'https://github.com/shengguang2002',
+      name: 'pixiv',
+      icon: 'fa6-brands:pixiv',
+      url: 'https://www.pixiv.net/users/27531192',
     },
   ],
 }
